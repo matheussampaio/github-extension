@@ -9,10 +9,9 @@
 // @grant        GM_addStyle
 // @homepageURL  https://github.com/matheussampaio/github-extension
 // @supportURL   https://github.com/matheussampaio/github-extension/issues
-// @downloadURL  https://raw.githubusercontent.com/matheussampaio/github-extension/master/src/index.js
-// @updateURL    https://raw.githubusercontent.com/matheussampaio/github-extension/master/src/index.js
+// @downloadURL  https://raw.githubusercontent.com/matheussampaio/github-extension/master/src/code.user.js
+// @updateURL    https://raw.githubusercontent.com/matheussampaio/github-extension/master/src/code.user.js
 // ==/UserScript==
-
 (function() {
     'use strict';
     GM_addStyle('.news.column > .push { display: none !important; }');
